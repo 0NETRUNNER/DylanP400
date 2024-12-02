@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @0NETRUNNER
-  
+- <img src="https://tryhackme-badges.s3.amazonaws.com/0NETRUNNER.png" alt="Your Image Badge" />
