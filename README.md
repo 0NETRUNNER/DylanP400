@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @0NETRUNNER
-- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2947325" style='border:none;'></iframe>
